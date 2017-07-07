@@ -3,7 +3,7 @@
 Here we present and share the full design of a new generation of neural implant.
 We believe this implant will be benificial for the community because it is open-source, cheap, easy to build abd versatile.
 
-[detailed construction protocol](https://github.com/delcasso/hope/blob/master/construction_protocol)
+[detailed construction protocol](https://docs.google.com/document/d/1q16wZUVTwCpzaQ-ztSFwqtu08wGMQpvomvOwhh_5c_I/edit)
 
 
 ![Figure 1](FIGURES-01.jpg)
