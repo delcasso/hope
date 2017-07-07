@@ -1,12 +1,7 @@
 # Welcome to the HOPE project GitHub Page
 
-Here we present and share the full design of a new generation of neural implant.
-We believe this implant will be benificial for the community because it is
-- open-source
-- cheap
-- easy to build
-- 3D printable
-- created via CAD software
+Here we present and share the full design of a new brain implant.
+We believe this implant will be benificial for the community as it is, open-source, cheap, easy to build, easy to modifiy via CAD software, and 3D printed
 
 [Construction Protocol](https://docs.google.com/document/d/1HBMTf2zAkemH4JGzm5-74FxcKkp1hb2eWU4hFamfCxw/edit)
 
