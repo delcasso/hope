@@ -1,6 +1,10 @@
 ## Welcome to the HOPE project GitHub Page
 
-![Thumbnail of cayman](FIGURES-01.jpg)
+![Figure 1](FIGURES-01.jpg)
+![Figure 2](FIGURES-02.jpg)
+![Figure 3](FIGURES-03.jpg)
+![Figure 4](FIGURES-04.jpg)
+![Figure 5](FIGURES-05.jpg)
 
 ## Welcome to GitHub Pages
 
