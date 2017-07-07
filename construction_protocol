@@ -1,0 +1,154 @@
+## Here is the detialed construciton protocol
+
+Tetrode Fabrication: https://www.jove.com/video/1098/micro-drive-array-for-chronic-in-vivo-recording-tetrode-assembly
+Wash your hands
+Cut a 30 cm section of 0.0008 inches diameter tungsten wire using serrated scissors. Fold the wire in half and run your fingers along the length of the wire to stick the strands together. Cut the extremity with a loop. Deionized water can be applied if necessary to keep the strands together.
+
+Fold the wire in half again to form a loop on one end and cut the tips of the wires on the other end to ensure they are aligned. Clip the four ends together using an alligator clip that has been modified with a horizontal bar and weights.
+
+Use the loop to hang the wire. directly above a turning device and place the bar of the alligator clip into the turning device. Apply 115 clockwise turns followed by 15 counterclockwise turns.
+
+Melt the insulation of the wires to fuse them together. Use a heat gun at the highest flow setting (1000 °F) to heat the wire from four different directions. For each direction, pass the heat gun back and forth along the length of the wire twice at a distance of 1-2cm, spending approximately 4 seconds on each pass.
+
+Lift the alligator clip slightly to release the tension from the weights and cut the tetrode above the tip of the alligator clip. Transfer the new tetrode into an anti-static box for storage.
+
+
+Shuttle Assembly
+
+Remove supports from 3D printed parts. Check that the tetrode adjustment block (part 3) fit fully within the ring of the body.
+
+The shuttle needs to slide smoothly and should be as tight as possible inside the body.  The shuttle can be sanded down once on each side to ensure a proper fit.
+ 
+
+
+
+Use an 0-80 tap to form threads along 
+ the central hole of the shuttle
+ the two EIB posts on the body
+the two holes in the side of the body’s shuttle chamber.
+When you tap the hole it’s not good to try to go all the way in when it become to difficult to turn, it’s better to unscrew the tapping tool, blow in the hole and try again, so for the shuttle you may need to do it in 4 times for example.
+
+
+
+Cut eighteen sections of M-tube (0.0062”/0.0092” ID/OD), each 12 mm in length, with a razor blade. 
+
+Insert 9 of these segments into both the left and right holes of the shuttle. If you plan to use optical fibers, then cut two more sections of Mtube, each 15mm in length. Place on long M-tube in the center of each bundle.
+
+Adjust the position of the M-tubes until they protrude 5.5 mm from the bottom of the shuttle. 
+
+Apply drops of a light curing adhesive around the M-tubes using a needle and cure with UV light for 10 seconds. Make sure to wear appropriate glasses to protect your eyes from UV light. Ensure that no adhesive falls into the tapped central hole. It could be easier to make one bundle first and then the other one.
+
+
+If necessary, adhesive can be applied slightly above the bottom of the M-tubes to hold them together in a tight cluster. Ensure that no adhesive enters through the bottom of the M-tubes and cure with UV light for 10 seconds. You can also use a second shuttle to hold the tip of the bundle when you are gluing it.
+
+Draw exactly what you see and label the front side with F (both on the diagram and on the shuttle itself) 
+
+Slide the bottom of the shuttle into the body, making sure that the M-tubes slide through without bending (image). Make sure the shuttle is fully inserted into the body.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tetrode Insertion
+
+Insert a tetrode into one of the M-tubes with a pair of forceps and carefully push it through until approximately 1.5~2 cm remains above. Grab the loop at the end of the tetrode and pass it through one of the plastic gates on the body. It’s best performed under the MS4r43
+
+Mark the position of the tetrode on the diagram.
+
+Repeat this process with all sixteen tetrodes and their corresponding plastic gates.
+
+With a pair of serrated scissors, cut the tetrodes protruding from the bottom of the body in a single smooth and swift motion across the bottom of the shuttle body and and the supporting cylindrical cage of the bottom.
+
+Acquire a tetrode length adjuster, slowly lower the shuttle body on top of the tetrode length adjuster, so that all of the cut tetrodes at the bottom are even and flat with the smaller cylinder at the top of the tetrode length adjuster.
+
+Now that the tetrodes have been cut to length, they must be secured to maintain their current position inside the M-tubes. Use a needle tip to carefully place a drop of the adhesive above the M-tubes and then cure with UV light for 10 seconds.
+
+
+7. Push down the shuttle. Insert the screw into the bar and then screw in the shuttle until the bar touches the body.
+
+
+
+
+
+
+
+Drilling holes in the Electrode Interface Board (EIB)
+
+Obtain a EIB, if it does not have a hole in the center, obtain a hand-drill and a 3D printed bar.
+Align the bar and the eib using two  0-80 screws.
+Make a small mark in the center hole of the bar onto the EIB.
+Drilling by hand the hole by hand.
+
+Mounting the Electrode Interface Board (EIB)
+
+Place the electrode interface board onto the posts of the body and use 0-80 x 5/16” screws to secure it in place. We don’t want any gap between the EIB and the bar or between the bar and the body. TT1 should face the front of the body, TT16 should face the back. 
+
+
+
+Electrode Interface Board (EIB)
+Cut one of the tetrode loops with a pair of serrated scissors to produce four equal lengths of wire. Forceps can be used to gently pull apart the wires if they are stuck together. Make sure to inspect the EIB and clear any extraneous debris that might be on the surface, if you don’t the shuttle body will start to break. 
+
+Each plastic gate on the body corresponds spatially to one of the sixteen sets of tetrode holes on the EIB board. The four separated wires of the tetrode should be threaded through the four corresponding holes above with forceps and secured in place with gold pins. Repeat this process with all sixteen tetrodes.
+
+Ground Wire
+
+Cut a  10 cm length of full hardness tungsten wire (0.005” Bare, 0.0070” Coated and use a torch to burn the insulation off the ends (burn 2mm on each side).
+
+Insert the fold through the ground wire hole (R2) in the EIB, with the longer end directed towards the far side of the device. The wire can be bent slightly so that it remains in place.
+
+Protect the drive
+
+Take the 3D printed cap and lower it onto the device. Secure in place by adding drops of light curing adhesive where the body meets the cap and curing with UV light for 10 seconds.
+
+ Gold Plating
+
+Wash the tips of the tetrodes in baths of deionized water, ethanol, and then deionized water again to remove any residue.
+
+Attach the fully assembled tetrode device onto   and lower the tips of the electrodes into a bath of gold plating solution. The bath should be connected via a wire to .
+
+Open NanoZ on the connected computer and select “Test Impedances.” Initial values typically range from 200-400 kOhm.
+
+Select “DC Electroplate” and switch to the “Match impedances” mode. The plating current should be set to -0.050uA with a target of 200 kOhm at 1004 Hz, an interval of 1 second and a pause of 2 seconds. Choose an appropriate number of runs (if your impedances are higher, you will need more runs) and click on “autoplate.”
+
+If the number of runs selected was not sufficient to bring the impedance below 200 kOhm, repeat the above step until the desired results are obtained. In cases where a tetrode was not connected properly or was constructed poorly it may not be possible to lower the impedance significantly.
+ 
+
+
+
+Materials
+Loctite 4305 Light Cure Instant Adhesive (Henkel, IDH #303389)
+LED-200 UV Spot Curing System (Electro-lite, Part #81172)
+EIB-36-16TT (Neuralynx)
+8975-6 11.6 AMP 570/1000-Degree Fahrenheit Dual Temperature Heat Gun (Milwaukee Tool Corporation)
+Turning device http://neuralynx.com/products/tetrode_workstation/tetrode_spinner_2.0 or http://www.open-ephys.org/twister/
+Modified alligator clip
+8 Micron Tungsten 99.95% CS Wire (California Fine Wire Company)
+Forceps
+0.0062”/0.0092” ID/OD Medical Grade M-tubing (HPC Medical Products, IWG Lot # 1606000091)
+3D printed cap, body and shuttle  (Formlab Form2 + Clear Resine (GPCL02))
+Small gold plated electrode attachment pins (Neuralynx)
+Razor blade
+Solder Station Analog 50W (Digikey, Part Number WES51-120V-ND)
+320 Grit Sandpaper (McMaster Carr, Part Number 4692A71)
+0-80 General Purpose Tap (McMaster Carr, Part Number 2522A751)
+Torch
+Stainless steel wire
+0-80 x 1/8” Stainless Steel Pan Head Machine Screws (McMaster Carr, Part Number 91772A052)
+0-80 Thread Size, 1/2" Long, 18-8 Stainless Steel Socket Head Screw (McMaster Carr, Part Number 92196A070)
+
+ 
+ 
+
+
+
+
