@@ -1,4 +1,4 @@
-## Welcome to the HOPE project GitHub Page
+# Welcome to the HOPE project GitHub Page
 
 Here we present and share the full design of a new generation of neural implant.
 - easy to build
@@ -7,14 +7,14 @@ Here we present and share the full design of a new generation of neural implant.
 
 ![Figure 1](FIGURES-01.jpg)
 
-# **FIGURE 1** | Schematic representation of the HOPE implant
+## **FIGURE 1** | Schematic representation of the HOPE implant
 (A) Dimensions, weight and cost.
 (B) Section view showing the drive mechanism used to move the shuttle.
 (C) Exploded view of the implant.
 
 ![Figure 2](FIGURES-02.jpg)
 
-**FIGURE 2** | Construction Steps of HOPE-implant
+## **FIGURE 2** | Construction Steps of HOPE-implant
 (A) Insertion of the two bundles into the shuttle.
 (B) Insertion of the shuttle into the body
 (C) Insertion and cut of the tetrodes 
@@ -24,7 +24,7 @@ Here we present and share the full design of a new generation of neural implant.
 
 ![Figure 3](FIGURES-03.jpg)
 
-**FIGURE 3** | Chronic recordings in the dorsal striatum
+## **FIGURE 3** | Chronic recordings in the dorsal striatum
 (A) Schematic representation of the recording preparation, including the tip of a tetrode.
 (B) Histological results showing the position of the tetrode tip in the striatum.
 Representations of 8 isolated single units recorded by 4 electrodes (e) on a same tetrode.
@@ -33,7 +33,7 @@ Representations of 8 isolated single units recorded by 4 electrodes (e) on a sam
 
 ![Figure 4](FIGURES-04.jpg)
 
-**FIGURE 4** | Optogenetic inhibition of PV cells in the striatum
+## **FIGURE 4** | Optogenetic inhibition of PV cells in the striatum
 (A) Schematic representation of the recording location.
 (B) Histological confirmation showing the position of the recording electrodes [arrows].
 (C) Averaged waveform of one isolated single unit on the four electrodes of one tetrode
@@ -43,7 +43,7 @@ Representations of 8 isolated single units recorded by 4 electrodes (e) on a sam
 
 ![Figure 5](FIGURES-05.jpg)
 
-FIGURE 5 | Muscimol injeciton in the striatum
+## **FIGURE 5** | Muscimol injeciton in the striatum
 (A) Schematic representation of the recording and injection location.
 (B) Experimental design.
 (C) Averaged waveform of an isolated single unit from one tetrode.
