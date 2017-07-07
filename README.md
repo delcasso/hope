@@ -7,7 +7,7 @@ Here we present and share the full design of a new generation of neural implant.
 
 ![Figure 1](FIGURES-01.jpg)
 
-#**FIGURE 1** | Schematic representation of the HOPE implant
+# **FIGURE 1** | Schematic representation of the HOPE implant
 (A) Dimensions, weight and cost.
 (B) Section view showing the drive mechanism used to move the shuttle.
 (C) Exploded view of the implant.
