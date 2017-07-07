@@ -8,7 +8,7 @@ We believe this implant will be benificial for the community because it is
 - 3D printable
 - created via CAD software
 
-[detailed construction protocol](https://docs.google.com/document/d/1q16wZUVTwCpzaQ-ztSFwqtu08wGMQpvomvOwhh_5c_I/edit)
+[Construction Protocol](https://docs.google.com/document/d/1HBMTf2zAkemH4JGzm5-74FxcKkp1hb2eWU4hFamfCxw/edit)
 
 ![body](body.jpg)
 
