@@ -5,7 +5,7 @@ We believe this implant will be benificial for the community because it is open-
 
 [detailed construction protocol](https://docs.google.com/document/d/1q16wZUVTwCpzaQ-ztSFwqtu08wGMQpvomvOwhh_5c_I/edit)
 
-
+![body](body.jpg)
 ![Figure 1](FIGURES-01.jpg)
 
 ## **FIGURE 1** | Schematic representation of the HOPE implant
