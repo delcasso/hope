@@ -8,3 +8,4 @@ We believe this implant will be benificial for the community as it is, open-sour
 [Construction Protocol](https://docs.google.com/document/d/1HBMTf2zAkemH4JGzm5-74FxcKkp1hb2eWU4hFamfCxw/edit)
 
 ![body](body.png)
+![exploded view](exploded_view.png)
