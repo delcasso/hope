@@ -13,4 +13,5 @@ We believe this implant will be benificial for the community as it is, open-sour
 
 
 ![exploded view](exploded_view.png)
+
 **Figure 2:** Exploded View of HOPE implant
