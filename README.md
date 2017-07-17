@@ -5,7 +5,7 @@ We believe this implant will be benificial for the community as it is, open-sour
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-# [Construction Protocol](https://docs.google.com/document/d/1HBMTf2zAkemH4JGzm5-74FxcKkp1hb2eWU4hFamfCxw/edit)
+# [Construction Protocol (join the community)](https://docs.google.com/document/d/1HBMTf2zAkemH4JGzm5-74FxcKkp1hb2eWU4hFamfCxw/edit)
 
 ![body](body.png)
 
