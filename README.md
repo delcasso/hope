@@ -1,7 +1,7 @@
 # Welcome to the HOPE project GitHub Page
 
 Here we present and share the full design of a new brain implant.
-We believe this implant will be benificial for the community as it is, open-source, cheap, easy to build, easy to modifiy via CAD software, and 3D printable.
+We believe this implant will be benificial for the community as it is, open-source, cheap, easy to build, easy to modify via CAD software, and 3D printable.
 
 The website is still under construction, please don't hesitate to ask what you need at sebastien.delcasso@gmail.com
 
